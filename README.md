@@ -8,9 +8,9 @@ Cada línea de datos debe contener la siguiente información, separada por comas
 *Presión:* Valor numérico flotante.
 Una vez que la función "extraer" ha sido ejecutada, los datos procesados se almacenan en las siguientes listas globales:
 
-`fecha`: Lista de cadenas con las fechas `['2023-10-26', '2023-10-26']`.
-`hora`: Lista de cadenas con las horas  `['10-30-00', '10-35-00']`.
-`temperatura`: Lista de números flotantes con los valores de temperatura.
-`humedad`: Lista de números flotantes con los valores de humedad.
-`presion`: Lista de números flotantes con los valores de presión.
+"fecha": Lista de cadenas con las fechas `['2023-10-26', '2023-10-26']`.
+"hora": Lista de cadenas con las horas  `['10-30-00', '10-35-00']`.
+"temperatura": Lista de números flotantes con los valores de temperatura.
+"humedad": Lista de números flotantes con los valores de humedad.
+"presion": Lista de números flotantes con los valores de presión.
 pythoon
